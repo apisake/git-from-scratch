@@ -1,0 +1,4 @@
+I've been running away from learning git for a long time.
+Daniel Shiffman makes me move on to eventually learn git.
+He is great. He has a lot of good stuf on his YouTube channel.
+He made a series of Git and GitHub on his channel.
