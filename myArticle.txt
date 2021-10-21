@@ -6,3 +6,6 @@ He is great. He has a lot of good stuf on his YouTube channel.
 He made a series of Git and GitHub on his channel.
 The first episodfe he introduced Git and GitHub.
 He is good at explaining things. 
+Creating a text file on the git project is what he did for the first time.
+Then, he committed the file as he wrote several lines of words he about to make it as a poem.
+So, I commit and commit to make it worth to see in the graph.
