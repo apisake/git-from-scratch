@@ -9,3 +9,5 @@ He is good at explaining things.
 Creating a text file on the git project is what he did for the first time.
 Then, he committed the file as he wrote several lines of words he about to make it as a poem.
 So, I commit and commit to make it worth to see in the graph.
+ตอนนี้เราได้ ฺbranch ออกมาเป็น thai edition เลยลองใส่ภาษาไทยดูว่าทำได้คล่องขนาดไหน
+มา commit กันอีกที
