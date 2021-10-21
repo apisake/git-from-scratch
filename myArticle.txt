@@ -1,4 +1,6 @@
 I've been running away from learning git for a long time.
+I suppose to know about git and using it in, like, every day. 
+However, that's never happended.
 Daniel Shiffman makes me move on to eventually learn git.
 He is great. He has a lot of good stuf on his YouTube channel.
 He made a series of Git and GitHub on his channel.
