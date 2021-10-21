@@ -4,3 +4,5 @@ However, that's never happended.
 Daniel Shiffman makes me move on to eventually learn git.
 He is great. He has a lot of good stuf on his YouTube channel.
 He made a series of Git and GitHub on his channel.
+The first episodfe he introduced Git and GitHub.
+He is good at explaining things. 
